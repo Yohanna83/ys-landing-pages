@@ -1,5 +1,5 @@
 # ys-landing-pages
-# Portafolio de Landing Pages | [Tu Nombre]
+# Portafolio de Landing Pages | Yohanna Solorzano
 
 ¡Hola! Soy Yohanna Solorzano, desarrolladora web con un trasfondo sólido en gestión de proyectos y TI. Me especializo en diseñar y programar *landing pages* efectivas, responsivas y atractivas que ayudan a las marcas a conectar con su audiencia y alcanzar sus objetivos.
 
